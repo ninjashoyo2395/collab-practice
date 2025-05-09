@@ -3,6 +3,6 @@ using namespace std;
 
 int main(){
 
-    cout<<"EVERYTHING CHANGED WHEN THE FIRE NAION ATTACKED";
+    cout<<"nothing suspicious here lol heheh";
 
 }
